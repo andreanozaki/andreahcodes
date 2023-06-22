@@ -1,8 +1,9 @@
 
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Andrea;
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### I'm Andrea;
 
-* I'm a Software Developer from Brazil, currently living in Japan!
+* I'm a Software Developer from Brazil!
 * I love building tech and learning new technologies.
 
 
