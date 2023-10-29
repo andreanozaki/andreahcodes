@@ -3,8 +3,10 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### I'm Andrea;
 
+<img src="logoandreanozaki.png" min-width="300px" max-width="300px" width="300px" align="right" alt="logo dev-steph">
 
-* I love building tech and learning new technologies.
+<p align="left"> 
+ I love building tech and learning new technologies.</br>Minha especialização envolve HTML, CSS, JavaScript (JS) e estou atualmente me dedicando ao aprendizado de React.js. Sempre estou em busca de melhorar minhas habilidades e meu foco é criar sistemas escaláveis e de fácil manutenção.
 
 
 
