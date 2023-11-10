@@ -12,8 +12,8 @@
 
 - 🎓 Software Engineer Student
 
-- I love building tech and learning new technologies.</br>Minha especialização envolve HTML, CSS, JavaScript (JS) e estou atualmente me dedicando ao aprendizado de React.js.<br><br> Sempre estou em busca de melhorar minhas habilidades e meu foco é criar sistemas escaláveis e de fácil manutenção.
-
+- I love building tech and learning new technologies.</br>
+Minha especialização envolve HTML, CSS, JavaScript (JS) e estou atualmente me dedicando ao aprendizado de React.js.
 
      [![LinkedIn](https://img.shields.io/badge/LinkedIn-Purple?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreahcodes/)
         [![Instagram](https://img.shields.io/badge/Instagram-Purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreahcodes/)
