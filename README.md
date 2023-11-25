@@ -4,7 +4,7 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  <h2>Meu nome é Andrea Nozaki 😃</h2>
 
-<img src="logoandreanozaki.png" min-width="250px" max-width="250px" width="250px" align="right" alt="logo andreanozaki">
+<img src="logoandreanozaki.png" min-width="100px" max-width="200px" width="180px" align="right" alt="logo andreanozaki">
 
 <p align="left"> 
 
