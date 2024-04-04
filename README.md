@@ -10,7 +10,7 @@
 
 - (React JS | Javascript | HTML | CSS | Git | Github | Scrum ) 🚀 </p>
 
-- 🎓 Software Engineer Student
+- 🎓 Software Engineer
 
 - I love building tech and learning new technologies.</br>
 Minha especialização envolve HTML, CSS, JavaScript (JS) e estou atualmente me dedicando ao aprendizado de React.js.
