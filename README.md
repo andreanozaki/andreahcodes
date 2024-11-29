@@ -8,12 +8,12 @@
 
 <p align="left"> 
 
-- (React JS | Javascript | HTML | CSS | Git | Github | Scrum ) 🚀 </p>
+- (React JS | Javascript | HTML | CSS | Git | Github | Scrum|Node.js | Express.js | MySql ) 🚀 </p>
 
 - 🎓 Software Engineer
 
 - I love building tech and learning new technologies.</br>
-Minha especialização envolve HTML, CSS, JavaScript (JS) e estou atualmente me dedicando ao aprendizado de React.js e Node.js.
+Minha especialização envolve HTML, CSS, JavaScript (JS) e estou atualmente aprimorando meus conhecimentos em  React.js e Node.js.
 
      [![LinkedIn](https://img.shields.io/badge/LinkedIn-Purple?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreahcodes/)
         [![Instagram](https://img.shields.io/badge/Instagram-Purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreahcodes/)
